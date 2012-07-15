@@ -12,20 +12,40 @@ Most important point: don't be boring.
 How to not be boring
   Delivery is king. Not content.
     Story about Nick Q's TDD talk
+  Do you need to be funny?
+    Nope. There are other options. Don't fake a personality. Instead, do these things:
   Love your topic
     Never give a talk on something you're not obsessed with
   Tell stories
     MagicFS story
+  Skip your introduction
+    Don't introduce yourself for long
+    Don't introduce your topic for long
   Skip the slides
     Live code a refactoring - NullObject maybe?
   Realize that every 10 minutes, you need to wake people up
     Clap when hands together
     Joke - best part of this is it scares the crap out of people who aren't paying attention
   Practice a ton
+    Give it to a practice audience if at all possible
     Simulate the talk conditions as best as possible
       Resolution
       Room
       Mic
+
+
+On content
+  A conference talk is a poor medium for teaching someone
+    The average attendee will be able to retain one or two specific ideas
+    The rest is just groundwork that will let them learn more later on their own
+    Hit them with the most important thing up front, and repeat it
+    Go fast
+      Slow students will only absorb a little, whether you go fast or slow
+      Faster students will absorb more if you go faster
+    Have synchronization points where people who tuned out can get back in
+  
+Dealing with nerves
+  Have a friend sit in the front and nod and laugh a lot
 
 
 How to write a good proposal
@@ -34,6 +54,12 @@ How to write a good proposal
   Be lighthearted
   Show social proof
   Promise to help promote the conf
+
+
+Handling questions
+  How to prompt
+  Repeat it back
+  Freely admit ignorance
 
 
 
