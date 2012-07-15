@@ -1,0 +1,50 @@
+=======
+Outline
+=======
+
+Intro
+
+Most important point: don't be boring.
+  Dirty secret of conferences - people do them because they're free vacation
+  "Who is being paid right now?" show of hands
+  Even bad conferences are more fun than work
+
+How to not be boring
+  Delivery is king. Not content.
+    Story about Nick Q's TDD talk
+  Love your topic
+    Never give a talk on something you're not obsessed with
+  Tell stories
+    MagicFS story
+  Skip the slides
+    Live code a refactoring - NullObject maybe?
+  Realize that every 10 minutes, you need to wake people up
+    Clap when hands together
+    Joke - best part of this is it scares the crap out of people who aren't paying attention
+  Practice a ton
+    Simulate the talk conditions as best as possible
+      Resolution
+      Room
+      Mic
+
+
+How to write a good proposal
+  The most important idea - realize who is reading it: some poor bastard who has to read 100 other proposals
+  Be brief
+  Be lighthearted
+  Show social proof
+  Promise to help promote the conf
+
+
+
+
+=====
+Ideas
+=====
+
+* How to be more interesting than the internet
+* Why bad slides make your audience hate you
+* Why real developers do it live
+* The Prime Directive for any speaker
+* How to get plenty of questions during Q&A
+* How to write great proposals (aka 'How to bribe conference organizers')
